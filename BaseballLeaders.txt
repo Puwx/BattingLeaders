@@ -1,0 +1,37 @@
+Batting Leaders for: 25/08/2018 
+Batting Average
+Rank: 1. - Player:Betts  - Team: BOS - Stat: .338 
+Rank: 2. - Player:Martinez  - Team: BOS - Stat: .335 
+Rank: 3. - Player:Altuve  - Team: HOU - Stat: .329 
+Rank: 4. - Player:Freeman  - Team: ATL - Stat: .316 
+Rank: 5. - Player:Segura  - Team: SEA - Stat: .315 
+Rank: 6. - Player:Markakis  - Team: ATL - Stat: .312 
+Rank: 6. - Player:Trout  - Team: LAA - Stat: .312 
+Rank: 8. - Player:Yelich  - Team: MIL - Stat: .311 
+Rank: 9. - Player:Gennett  - Team: CIN - Stat: .310 
+Rank: 10. - Player:Arenado  - Team: COL - Stat: .309 
+------------------------------------------------------------
+On-Base%
+Rank: 1. - Player:Trout  - Team: LAA - Stat: .462 
+Rank: 2. - Player:Betts  - Team: BOS - Stat: .425 
+Rank: 3. - Player:Votto  - Team: CIN - Stat: .422 
+Rank: 4. - Player:Ramirez  - Team: CLE - Stat: .408 
+Rank: 5. - Player:Martinez  - Team: BOS - Stat: .406 
+Rank: 6. - Player:Cain  - Team: MIL - Stat: .401 
+Rank: 7. - Player:Freeman  - Team: ATL - Stat: .400 
+Rank: 8. - Player:Goldschmidt  - Team: ARI - Stat: .399 
+Rank: 9. - Player:Judge  - Team: NYY - Stat: .398 
+Rank: 10. - Player:Choo  - Team: TEX - Stat: .392 
+------------------------------------------------------------
+Home Runs
+Rank: 1. - Player:Davis  - Team: OAK - Stat: 39 
+Rank: 2. - Player:Martinez  - Team: BOS - Stat: 38 
+Rank: 3. - Player:Ramirez  - Team: CLE - Stat: 37 
+Rank: 4. - Player:Gallo  - Team: TEX - Stat: 34 
+Rank: 4. - Player:Carpenter  - Team: STL - Stat: 34 
+Rank: 6. - Player:Stanton  - Team: NYY - Stat: 32 
+Rank: 7. - Player:Cruz  - Team: SEA - Stat: 31 
+Rank: 7. - Player:Arenado  - Team: COL - Stat: 31 
+Rank: 9. - Player:Trout  - Team: LAA - Stat: 30 
+Rank: 9. - Player:Harper  - Team: WSN - Stat: 30 
+------------------------------------------------------------
