@@ -1,3 +1,6 @@
+
+#### THIS IS AN EXAMPLE OF THE DATA THAT IS PRODUCED BY THE SCRIPT ####
+
 Batting Leaders for: 25/08/2018 
 Batting Average
 Rank: 1. - Player:Betts  - Team: BOS - Stat: .338 
