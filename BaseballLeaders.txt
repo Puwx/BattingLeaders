@@ -1,27 +1,27 @@
-Batting Leaders for: 25/08/2018 
+Batting Leaders for: 26/08/2018 
 Batting Average
-Rank: 1. - Player:Betts  - Team: BOS - Stat: .338 
-Rank: 2. - Player:Martinez  - Team: BOS - Stat: .335 
-Rank: 3. - Player:Altuve  - Team: HOU - Stat: .329 
-Rank: 4. - Player:Freeman  - Team: ATL - Stat: .316 
-Rank: 5. - Player:Segura  - Team: SEA - Stat: .315 
-Rank: 6. - Player:Markakis  - Team: ATL - Stat: .312 
-Rank: 6. - Player:Trout  - Team: LAA - Stat: .312 
+Rank: 1. - Player:Martinez  - Team: BOS - Stat: .337 
+Rank: 2. - Player:Betts  - Team: BOS - Stat: .335 
+Rank: 3. - Player:Altuve  - Team: HOU - Stat: .331 
+Rank: 4. - Player:Freeman  - Team: ATL - Stat: .317 
+Rank: 5. - Player:Segura  - Team: SEA - Stat: .316 
+Rank: 6. - Player:Trout  - Team: LAA - Stat: .314 
+Rank: 7. - Player:Markakis  - Team: ATL - Stat: .312 
+Rank: 8. - Player:Arenado  - Team: COL - Stat: .311 
 Rank: 8. - Player:Yelich  - Team: MIL - Stat: .311 
-Rank: 9. - Player:Gennett  - Team: CIN - Stat: .310 
-Rank: 10. - Player:Arenado  - Team: COL - Stat: .309 
+Rank: 10. - Player:Gennett  - Team: CIN - Stat: .309 
 ------------------------------------------------------------
 On-Base%
 Rank: 1. - Player:Trout  - Team: LAA - Stat: .462 
-Rank: 2. - Player:Betts  - Team: BOS - Stat: .425 
-Rank: 3. - Player:Votto  - Team: CIN - Stat: .422 
-Rank: 4. - Player:Ramirez  - Team: CLE - Stat: .408 
-Rank: 5. - Player:Martinez  - Team: BOS - Stat: .406 
-Rank: 6. - Player:Cain  - Team: MIL - Stat: .401 
-Rank: 7. - Player:Freeman  - Team: ATL - Stat: .400 
-Rank: 8. - Player:Goldschmidt  - Team: ARI - Stat: .399 
-Rank: 9. - Player:Judge  - Team: NYY - Stat: .398 
-Rank: 10. - Player:Choo  - Team: TEX - Stat: .392 
+Rank: 2. - Player:Votto  - Team: CIN - Stat: .422 
+Rank: 3. - Player:Betts  - Team: BOS - Stat: .422 
+Rank: 4. - Player:Martinez  - Team: BOS - Stat: .407 
+Rank: 5. - Player:Ramirez  - Team: CLE - Stat: .406 
+Rank: 6. - Player:Freeman  - Team: ATL - Stat: .400 
+Rank: 7. - Player:Cain  - Team: MIL - Stat: .400 
+Rank: 8. - Player:Judge  - Team: NYY - Stat: .398 
+Rank: 9. - Player:Goldschmidt  - Team: ARI - Stat: .398 
+Rank: 10. - Player:Altuve  - Team: HOU - Stat: .396 
 ------------------------------------------------------------
 Home Runs
 Rank: 1. - Player:Davis  - Team: OAK - Stat: 39 
@@ -34,4 +34,6 @@ Rank: 7. - Player:Cruz  - Team: SEA - Stat: 31
 Rank: 7. - Player:Arenado  - Team: COL - Stat: 31 
 Rank: 9. - Player:Trout  - Team: LAA - Stat: 30 
 Rank: 9. - Player:Harper  - Team: WSN - Stat: 30 
+Rank: 9. - Player:Muncy  - Team: LAD - Stat: 30 
+Rank: 9. - Player:Machado  - Team: 2TM - Stat: 30 
 ------------------------------------------------------------

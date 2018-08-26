@@ -41,6 +41,9 @@ def baseballStats():
 			outText.write('-'*60+'\n')
 	outText.close()
 
+	print('The statistics have been written to the file: {}'.format(
+																	os.path.join(os.getcwd(),'BaseballLeaders.txt'))
+
 
 
 
