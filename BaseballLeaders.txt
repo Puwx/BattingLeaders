@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Batting Leaders for: 26/08/2018 
+=======
+
+#### THIS IS AN EXAMPLE OF THE DATA THAT IS PRODUCED BY THE SCRIPT ####
+
+Batting Leaders for: 25/08/2018 
+>>>>>>> ba90a6f8176695657ed51038973195a0d581d35e
 Batting Average
 Rank: 1. - Player:Martinez  - Team: BOS - Stat: .337 
 Rank: 2. - Player:Betts  - Team: BOS - Stat: .335 
