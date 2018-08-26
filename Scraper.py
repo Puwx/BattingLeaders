@@ -33,16 +33,11 @@ def baseballStats():
 					fullstat[0] = _Rank
 				_Rank = fullstat[0]
 				formRow = SF.statParse(fullstat)
-				outText.write('Rank: {} - Player:{} - Team:{} - Stat: {} \n'.format(
-																				formRow[0],
-																				formRow[1],
-																				formRow[2],
-																				formRow[3]))
+				outText.write('Rank: {} - Player:{} - Team:{} - Stat: {} \n'.format(formRow[0],formRow[1],formRow[2],formRow[3]))
 			outText.write('-'*60+'\n')
 	outText.close()
 
-	print('The statistics have been written to the file: {}'.format(
-																	os.path.join(os.getcwd(),'BaseballLeaders.txt'))
+	print('The statistics have been written to the file: {}'.format(os.path.join(os.getcwd(),'BaseballLeaders.txt'))
 
 
 
